@@ -1,0 +1,2 @@
+Introducing Threads, an innovative simulation suite tailored for accelerated chemical engineering development. With its elegant design, user-friendly interface, and full extensibility, it serves as the ideal foundation for your simulation requirements.
+Curious? Check out the packages listed in the [`threads-home/threads` repository](https://github.com/threads-home/threads). For any inquiries, feel free to contact me at dhkblaszyk@gmail.com.
